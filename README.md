@@ -1,6 +1,6 @@
 # Big Data Project: Stock Price Big Data 
 
-Áp dụng các công nghệ big data vào việc lưu trữ và xử lý các dữ liệu trên thị trường chứng khoán (cụ thể là thị trường ở Mỹ).
+Áp dụng các công nghệ big data vào việc lưu trữ và xử lý các dữ liệu trên thị trường chứng khoán (cụ thể là thị trường ở Mỹ). Project dựa trên kết quả đã thực hiện được về
 
 Mai Đức Trung 20232177M
 
@@ -15,7 +15,7 @@ Project của nhóm hướng đến việc mô phỏng một hệ thống big da
 Dữ liệu được lưu trữ trên một cụm HDFS bao gồm:
 - 1 Namenode để quản lý các datanode
 - 4 Datanode để lưu trữ dữ liệu.
-Để lấy dữ liệu ra và xử lý, nhóm demo sử dụng một cụm spark gồm 1 Spark Master và 4 Spark Worker.
+Để lấy dữ liệu ra và xử lý, nhóm demo sử dụng một cụm spark gồm 1 Spark Master và Spark Worker.
 
 # Công nghệ sử dụng:
 Hadoop 3.2.1 và Spark 3.0.1.
