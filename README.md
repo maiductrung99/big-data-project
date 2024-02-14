@@ -1,6 +1,6 @@
 # Big Data Project: Stock Price Big Data 
 
-Áp dụng các công nghệ big data vào việc lưu trữ và xử lý các dữ liệu trên thị trường chứng khoán (cụ thể là thị trường ở Mỹ). Project dựa trên kết quả đã thực hiện được về
+Áp dụng các công nghệ big data vào việc lưu trữ và xử lý các dữ liệu trên thị trường chứng khoán (cụ thể là thị trường ở Mỹ).
 
 Mai Đức Trung 20232177M
 
